@@ -21,13 +21,6 @@ const data = [
     demo: "https://todos-rb.netlify.app/",
   },
   {
-    id: 3,
-    image: IMG3,
-    title: "FAN-workshops",
-    github: "https://github.com/RemigiuszT/FAN-Records",
-    demo: "https://fan-records.netlify.app/",
-  },
-  {
     id: 4,
     image: IMG4,
     title: "UX DESIGN",
